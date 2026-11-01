@@ -2,7 +2,12 @@
 
 A clickable prototype: **the Mahabharata as a vertical feed**, in the format a thumb already knows. One story beat per screen, swipe up for the next, double-tap to like — and **every screen cites the text it came from**.
 
-> **▶ Open the live demo:** https://darshan-khanted.github.io/mool-prototype/
+> ### ▶ Open the live demo
+>
+> **[Open Mool](https://htmlpreview.github.io/?https://raw.githubusercontent.com/darshan-khanted/mool-prototype/main/Mool-prototype.html)**
+>
+> Once GitHub Pages is switched on for this repo (Settings → Pages → Branch: `main`, folder: `/root`), this shorter link works too:
+> **https://darshan-khanted.github.io/mool-prototype/**
 >
 > Best on a phone. On a desktop it appears inside a phone frame.
 
